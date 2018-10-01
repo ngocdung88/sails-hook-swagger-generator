@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-swagger-generator-v2",
-  "version": "0.0.0-development",
+  "version": "0.1.2",
   "description": "This is just a sails hook for generating swagger documentation json",
   "main": "index.js",
   "repository": {
@@ -28,8 +28,8 @@
     "chai": "^4.1.1",
     "lodash": "^4.17.4",
     "mocha": "^3.5.0",
-    "sails": "~0.11.0",
-    "travis-deploy-once": "^4.3.4",
-    "semantic-release": "7.0.2"
+    "sails": "^0.12.14",
+    "semantic-release": "7.0.2",
+    "travis-deploy-once": "^4.3.4"
   }
 }
