@@ -1,5 +1,5 @@
 {
-  "name": "sails-hook-swagger-generator",
+  "name": "sails-hook-swagger-generator-v2",
   "version": "0.0.0-development",
   "description": "This is just a sails hook for generating swagger documentation json",
   "main": "index.js",
